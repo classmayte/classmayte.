@@ -1,0 +1,69 @@
+body{  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image:url(dd.jpg);
+    height: 600px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-size: 15px;
+
+  }  
+  .container {  
+      
+    background-color: rgba(0, 0, 0, 0.244);
+    display: inline-block;
+    margin-left: 90px;
+    width:60%;
+    
+
+    
+  }  
+    
+  input[type=text], input[type=password], textarea {  
+       
+    padding: 15px;  
+    margin: 15PX;  
+    display: inline-block;  
+    border: none;  
+    background:beige;  
+    
+  }  
+  input[type=text]:focus, input[type=password]:focus {  
+    background-color:palevioletred;  
+    outline: none;  
+  }  
+   div {  
+              padding: 10px 0;  
+           }  
+  hr {  
+    border: 1px solid #f1f1f1;  
+    margin-bottom: 25px;  
+  }  
+  .registerbtn {  
+    background-color:black;  
+    color:whitesmoke;  
+    padding: 16px 20px;  
+    margin: 8px 0;  
+    border: none;  
+    cursor: pointer;  
+    width: 100%;  
+    opacity: 0.9;  
+  }  
+  .registerbtn:hover {  
+    opacity: 1;  
+  }  
+
+    .blink {
+        
+        font-style: italic;
+    
+        color:plum;
+font-size: 40px;
+
+    }
+.FOOTER{
+    background-color: rgb(216, 112, 147);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-size: 50px;
+    font-style: italic;
+}
